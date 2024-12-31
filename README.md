@@ -1,0 +1,2 @@
+# dio_aperfeicoe_logica_pensamento_computacional
+dio_aperfeicoe_logica_pensamento_computacional
