@@ -1,2 +1,7 @@
-# dio_aperfeicoe_logica_pensamento_computacional
-dio_aperfeicoe_logica_pensamento_computacional
+# DIO - Desafios de Código - Aperfeiçoe Sua Lógica e Pensamento Computacional
+
+## Apresentação
+
+## PBL, Lógica e Pensamento Computacional
+
+## A Linguagem é só um detalhe - Como resolver desafios de código
